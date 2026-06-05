@@ -12,6 +12,6 @@ En el trascurso del juego va aumentando el nivel:
 También incluyen sonidos como motor del carro, personas hablando, lluvia y trafico.
 ## Aportes: 
 El juego busca representar de forma divertida los retos de movilidad en las calles y fomentar la conducción responsable.
-## Logo del juego:
-![alt text](logo.png)
+## Poster:
+![alt text](POSTER.png)
 
